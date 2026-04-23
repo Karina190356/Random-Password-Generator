@@ -4,10 +4,9 @@ GUI-приложение «Random Password Generator» с возможность
 Создайте файл README.md в корне проекта со следующим содержимым.
 
 markdown
-Копировать
 # Random Password Generator
 
-**Автор:** [Ваше Имя] [Ваша Фамилия]
+**Автор:** [Иван] [Емельянов]
 **Язык:** Python 3.x
 
 ## Описание проекта
@@ -46,19 +45,19 @@ bashgit clone https://github.com/ВАШ_НИК/RandomPasswordGenerator.gitcd Ran
 ### 2. Создание виртуального окружения (рекомендуется)
 bashpython -m venv venv   # Создаем окружение (Linux/macOS/Windows)source venv/bin/activate   # Активация на Linux/macOSvenv\Scripts\activate      # Активация на Windows
 
-Копировать
+
 ### 3. Установка зависимостей
 Внутри активированного виртуального окружения выполните:
 bashpip install -r requirements.txt   # Если файл есть (в данном случае не обязателен)
 
-Копировать
+
 *(Примечание: Tkinter входит в стандартную библиотеку Python)*
 ### 4. Запуск приложения
 
 Выполните команду в терминале из папки проекта:
 bashpython main.py
 
-Копировать
+
 После этого откроется окно программы.
 
 ## Примеры использования и тесты
